@@ -106,7 +106,7 @@
                 </div>
             </div>
             @empty
-                <div class="text-center text-gray-500 italic mt-6">
+                <div class="text-center text-black-500 font-bold mt-6 bg-yellow-200 rounded-lg shadow-md p-4 transform rotate-[-1deg] border-l-4 border-black-600">
                     No tasks found. Add one above to get started!
                 </div>
             @endforelse
