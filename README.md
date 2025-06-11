@@ -34,9 +34,10 @@ I used the Tall stack here and added a JS library for sorting and dragging. Belo
 
 1. composer install
 2. npm install
-3. php artisan key:generate
-4. php artisan migrate
-5. npm run dev or npm run build
-6. php artisan serve
+3. copy .env.example .env
+4. php artisan key:generate
+5. php artisan migrate
+6. npm run dev or npm run build
+7. php artisan serve
 
 
